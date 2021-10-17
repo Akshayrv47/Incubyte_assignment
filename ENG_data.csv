@@ -1,0 +1,4 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,2517,Roy,8/9/2021,8/8/2022,COV,Jason,LA,ENG,10/15/1991,A
+1,2518,Joe,8/9/2021,8/8/2022,COV,Jason,LA,ENG,7/10/1991,A
+2,2519,Moien,8/9/2021,8/8/2022,COV,Jason,LO,ENG,8/11/1988,A

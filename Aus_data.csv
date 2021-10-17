@@ -1,0 +1,6 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,7,Perry,9/5/2021,9/4/2022,MVD,John,VIC,AU,11/12/1990,A
+1,77,Maxwel,9/5/2021,9/4/2022,MVD,John,VIC,AU,1/26/1990,A
+2,779,Finch,9/5/2021,9/4/2022,MVD,John,VIC,AU,3/27/1988,A
+3,955,Rajesh,9/5/2021,9/4/2022,MVD,John,VIC,AU,10/16/1991,A
+4,2345,Rajesh,8/5/2021,8/4/2022,MVD,John,VIC,AU,12/14/1990,A

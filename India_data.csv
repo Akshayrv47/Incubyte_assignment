@@ -1,0 +1,9 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,123,Akshay,10/2/2021,10/1/2022,COV,Sharma,MH,IND,7/4/1994,A
+1,124,Jay,8/11/2021,8/10/2022,COV,Sharma,MH,IND,4/5/1990,A
+2,125,Aliya,8/12/2021,8/11/2022,COV,Sharma,MH,IND,9/12/1990,A
+3,256,Pooja,10/11/2021,10/10/2022,CSD,Kulkarni,MH,IND,2/27/1991,A
+4,257,Shubham,10/11/2021,10/10/2022,CSD,Kulkarni,MH,IND,10/15/1991,A
+5,543,Rakhi,10/14/2021,10/13/2022,CSD,Joshi,MH,IND,12/14/1990,A
+6,777,Rutuja,9/27/2021,9/26/2022,COV,Mishra,UP,IND,5/5/1990,A
+7,877,Kedar,9/27/2021,9/26/2022,COV,Mishra,UP,IND,11/6/1990,A
